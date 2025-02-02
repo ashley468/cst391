@@ -33,3 +33,8 @@
 ![Nodemon](nodemon.png)
 - This screenshot shows the web browser after navigating to “localhost: 3000”. It displays the message from the app.js file in the hello ex folder: “Hello World from nodemon!”. 
 
+### Screenshot 6
+#### Typescript Hello World
+![TypeScript](typescript.png)
+- This section shows the web browser after navigating to “localhost:3000”. It displays the message from the app.ts file in the src folder: “Hello World from TypeScript!”
+
