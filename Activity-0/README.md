@@ -18,3 +18,8 @@
 ![npm](npm-v.png)
 - This screenshot shows the terminal window where I typed in “npm -v”. After clicking enter, it displays the version number that was validated. 
 
+### Screeenshot 3
+#### NodeJS Hello World
+![NodeJS](nodejs.png)
+- This screenshot shows the terminal displaying the message “Hello World!”. It shows the message from the app.js file in the hello folder. 
+
