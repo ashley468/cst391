@@ -23,3 +23,8 @@
 ![NodeJS](nodejs.png)
 - This screenshot shows the terminal displaying the message “Hello World!”. It shows the message from the app.js file in the hello folder. 
 
+### Screenshot 4
+#### Browse Hello World
+![Browser](browser.png)
+- This screenshot shows the web browser after navigating to “localhost: 3000”. It displays the message from the app.js file in the hello folder: “Hello World!”, the same as the last screenshot, only that this is shown in the web browser. 
+
