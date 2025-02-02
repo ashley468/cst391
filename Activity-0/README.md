@@ -38,3 +38,8 @@
 ![TypeScript](typescript.png)
 - This section shows the web browser after navigating to “localhost:3000”. It displays the message from the app.ts file in the src folder: “Hello World from TypeScript!”
 
+### Screenshot 7
+#### Application Running
+![AppRunning](appRunning.png)
+- This screenshot shows the app.ts file’s code. It shows the import express library along with its types for the request and response. It also shows an express app and port number of where the server will be found. The last section also shows the messages on the browser and the server port. 
+
