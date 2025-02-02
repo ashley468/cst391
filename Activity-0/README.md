@@ -28,3 +28,8 @@
 ![Browser](browser.png)
 - This screenshot shows the web browser after navigating to “localhost: 3000”. It displays the message from the app.js file in the hello folder: “Hello World!”, the same as the last screenshot, only that this is shown in the web browser. 
 
+### Screenshot 5
+#### Node Monitor String Change
+![Nodemon](nodemon.png)
+- This screenshot shows the web browser after navigating to “localhost: 3000”. It displays the message from the app.js file in the hello ex folder: “Hello World from nodemon!”. 
+
