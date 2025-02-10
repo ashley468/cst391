@@ -54,7 +54,7 @@
     - This file takes care of defining the specific styles for the AppComponent. Angular will automatically apply any styles in this file to the AppComponent when it's rendered in the browser. Although since it's blank in my case, it means that no style has been defined for the AppComponent yet. The application will still render successfully, however, the page will use the default browser styles unless other external libraries such as bootstrap are used. 
 
     *app.component.html*
-    - This file's angular generates the page by using a component-based architecture to update the view based on the user actions and any data changes. 
+    - This file is where angular generates the page by using a component-based architecture to update the view based on the user actions and any data changes. 
         - The component-based structure in an angular that divides the app into components, each with a logic, template, and optional styles.
         - The Data Binding in angular updates the view when data changes through two-way binding. 
         - The Event Handling listens to user actions and triggers corresponding functions which enhances interactivity. 
