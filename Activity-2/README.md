@@ -47,7 +47,7 @@
     - **b.** 
 
     *main.ts*
-    - This file is the starting point for an angular application. It uses the bootstrapApplication function to start the the app by bootstrapping the AppComponent and providing an appConfig for configuration. The Angular starts executing the application here. It renders the root component into the html page. 
+    - This file is the starting point for an angular application. It uses the bootstrapApplication function to start the app by bootstrapping the AppComponent and providing an appConfig for configuration. The Angular starts executing the application here. It renders the root component into the html page. 
     The AppComponent in this case is bootstrapped directly, which simplifies the structure of the application. The appConfig parameter helps configure additional settings, though in some cases they can be optional. When it executes, the application starts up, and Angular renders the html that's provided by the AppComponent.
     
     *app.component.css*
@@ -61,7 +61,7 @@
         - The Automatic View Updates synchronize the UI with data changes, making sure the display remains current without manual intervention. 
 
     *app.component.ts*
-    - This file holds the typescript code for the AppComponent which defines the component's behavior and logic. This is the section that I took care of modifying by adding a message variable and changing the title that was displayed on the broswer. It connects the html template and other CSS styles to the component class. It also defines the content and behavior for the main component of the application. 
+    - This file holds the typescript code for the AppComponent which defines the component's behavior and logic. This is the section that I took care of modifying by adding a message variable and changing the title that was displayed on the browser. It connects the html template and other CSS styles to the component class. It also defines the content and behavior for the main component of the application. 
         - The @Component tells angular to link the typescript class to the component's styles and templates. 
         - The selector defines the tag "app root" where the component will be displayed.
         - The templateUrl points to the html file and styleUrls points to the css file. 
