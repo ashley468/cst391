@@ -37,10 +37,10 @@
     - The src/app folder contains the html and ts pages that take care of constructing the localhost such as including its messages and titles. 
 
     *src/assets*
-    - The src/assets fodler is where it keeps all of the images or icons for the website. 
+    - The src/assets folder is where it keeps all of the images or icons for the website. 
 
     *src/environments*
-    - The src/environments folder holds environment-specific settings, such as configrations for development. 
+    - The src/environments folder holds environment-specific settings, such as configurations for development. 
 
 
 
@@ -61,12 +61,12 @@
         - The Automatic View Updates synchronize the UI with data changes, making sure the display remains current without manual intervention. 
 
     *app.component.ts*
-    - This file holds the typescript code for the AppComponent which defines the component's behavior and logic. This is the section that I took care of modifying by adding a message varaible and changing the title that was displayed on the broswer. It connects the html template and other CSS styles to the component class. It also defines the content and behavior for the main component of the application. 
+    - This file holds the typescript code for the AppComponent which defines the component's behavior and logic. This is the section that I took care of modifying by adding a message variable and changing the title that was displayed on the broswer. It connects the html template and other CSS styles to the component class. It also defines the content and behavior for the main component of the application. 
         - The @Component tells angular to link the typescript class to the component's styles and templates. 
         - The selector defines the tag "app root" where the component will be displayed.
         - The templateUrl points to the html file and styleUrls points to the css file. 
-        - The title and message variables store data that will be displayed on the borswer once the application starts running. 
+        - The title and message variables store data that will be displayed on the browser once the application starts running. 
 
     *app.module.ts*
-    - This file is used to define the main AppModule, which is a container for all Angular components, services, and other resources. It declares which components and servies are part of the application. The AppModule typically manages the structure of an Angular app by importing essential modules such as broser module and declaring components to run the application. Yet, since this project uses a standalone component approach, Angular directly bootstraps the AppComponent and eliminates the need for a traditional App Module. 
+    - This file is used to define the main AppModule, which is a container for all Angular components, services, and other resources. It declares which components and servies are part of the application. The AppModule typically manages the structure of an Angular app by importing essential modules such as browser module and declaring components to run the application. Yet, since this project uses a standalone component approach, Angular directly bootstraps the AppComponent and eliminates the need for a traditional App Module. 
 
