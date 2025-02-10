@@ -42,6 +42,7 @@
     *src/environments*
     - The src/environments folder holds environment-specific settings, such as configrations for development. 
 
+<br>
 
     - **b.** 
 
@@ -68,5 +69,4 @@
 
     *app.module.ts*
     - This file is used to define the main AppModule, which is a container for all Angular components, services, and other resources. It declares which components and servies are part of the application. The AppModule typically manages the structure of an Angular app by importing essential modules such as broser module and declaring components to run the application. Yet, since this project uses a standalone component approach, Angular directly bootstraps the AppComponent and eliminates the need for a traditional App Module. 
-
 
