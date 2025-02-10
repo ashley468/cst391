@@ -68,5 +68,5 @@
         - The title and message variables store data that will be displayed on the browser once the application starts running. 
 
     *app.module.ts*
-    - This file is used to define the main AppModule, which is a container for all Angular components, services, and other resources. It declares which components and servies are part of the application. The AppModule typically manages the structure of an Angular app by importing essential modules such as browser module and declaring components to run the application. Yet, since this project uses a standalone component approach, Angular directly bootstraps the AppComponent and eliminates the need for a traditional App Module. 
+    - This file is used to define the main AppModule, which is a container for all Angular components, services, and other resources. It declares which components and services are part of the application. The AppModule typically manages the structure of an Angular app by importing essential modules such as browser module and declaring components to run the application. Yet, since this project uses a standalone component approach, Angular directly bootstraps the AppComponent and eliminates the need for a traditional App Module. 
 
