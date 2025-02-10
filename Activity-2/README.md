@@ -42,5 +42,31 @@
     *src/environments*
     - The src/environments folder holds environment-specific settings, such as configrations for development. 
 
-    - b. **lh
+
+    - **b.** 
+
+    *main.ts*
+    - This file is the starting point for an angular application. It uses the bootstrapApplication function to start the the app by bootstrapping the AppComponent and providing an appConfig for configuration. The Angular starts exeucting the application here. It renders the root component into the html page. 
+    The AppComponent in this case is bootstarpped directly, which simplifies the structure of the application. The appConfig parameter helps configure additional settings, though in some cases they can be optional. When it executes, the application starts up, and Angulare renders the html that's provided by the AppComponent.
+    
+    *app.component.css*
+    - This file takes care of defining the specific styles for the AppComponent. Angular will automatically apply any styles in this file to the AppComponent when it's rendered in the browser. Although since it's blank in my case, it means that no style has been defined for the AppComponent yet. The application will still render successfully, however, the page will use the default browser styles unless other external libraries such as bootstrap are used. 
+
+    *app.component.html*
+    - This file's angular generates the page by using a component-based architecture to update the view based on the user actions and any data changes. 
+        - The component-based structure in an angular that divides the app into components, each with a logic, template, and optional styles.
+        - The Data Binding in angular updates the view when data changes through two-way binding. 
+        - The Event Handling listens to user actions and triggers corresponding functions which enhances interactivity. 
+        - The Automatic View Updates synchronize the UI with data changes, making sure the display remains current without manual intervention. 
+
+    *app.component.ts*
+    - This file holds the typescript code for the AppComponent which defines the component's behavior and logic. This is the section that I took care of modifying by adding a message varaible and changing the title that was displayed on the broswer. It connects the html template and other CSS styles to the component class. It also defines the content and behavior for the main component of the application. 
+        - The @Component tells angular to link the typescript class to the component's styles and templates. 
+        - The selector defines the tag "app root" where the component will be displayed.
+        - The templateUrl points to the html file and styleUrls points to the css file. 
+        - The title and message variables store data that will be displayed on the borswer once the application starts running. 
+
+    *app.module.ts*
+    - This file is used to define the main AppModule, which is a container for all Angular components, services, and other resources. It declares which components and servies are part of the application. The AppModule typically manages the structure of an Angular app by importing essential modules such as broser module and declaring components to run the application. Yet, since this project uses a standalone component approach, Angular directly bootstraps the AppComponent and eliminates the need for a traditional App Module. 
+
 
