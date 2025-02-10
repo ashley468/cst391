@@ -34,7 +34,7 @@
     - The src folder contains all of the source code for the application. It's where the main app files are held such as styles, templates, and components. 
 
     *src/app*
-    - The src/app folder contains the html and ts pages that take care of constructing the localhost such as uncluding its messages and titles. 
+    - The src/app folder contains the html and ts pages that take care of constructing the localhost such as including its messages and titles. 
 
     *src/assets*
     - The src/assets fodler is where it keeps all of the images or icons for the website. 
@@ -47,8 +47,8 @@
     - **b.** 
 
     *main.ts*
-    - This file is the starting point for an angular application. It uses the bootstrapApplication function to start the the app by bootstrapping the AppComponent and providing an appConfig for configuration. The Angular starts exeucting the application here. It renders the root component into the html page. 
-    The AppComponent in this case is bootstarpped directly, which simplifies the structure of the application. The appConfig parameter helps configure additional settings, though in some cases they can be optional. When it executes, the application starts up, and Angulare renders the html that's provided by the AppComponent.
+    - This file is the starting point for an angular application. It uses the bootstrapApplication function to start the the app by bootstrapping the AppComponent and providing an appConfig for configuration. The Angular starts executing the application here. It renders the root component into the html page. 
+    The AppComponent in this case is bootstrapped directly, which simplifies the structure of the application. The appConfig parameter helps configure additional settings, though in some cases they can be optional. When it executes, the application starts up, and Angular renders the html that's provided by the AppComponent.
     
     *app.component.css*
     - This file takes care of defining the specific styles for the AppComponent. Angular will automatically apply any styles in this file to the AppComponent when it's rendered in the browser. Although since it's blank in my case, it means that no style has been defined for the AppComponent yet. The application will still render successfully, however, the page will use the default browser styles unless other external libraries such as bootstrap are used. 
