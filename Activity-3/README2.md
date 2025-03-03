@@ -1,5 +1,3 @@
-# Quesionts
-
 ## Research Questions
 ### Part 2
 #### Research
