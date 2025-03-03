@@ -1,2 +1,7 @@
 # Activity 3
-- *Start
+- Captions?
+
+## Screenshot 1
+
+![Big](big.png)
+![Small](small.png)
