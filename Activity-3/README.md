@@ -58,5 +58,5 @@
 
 1. Add complete comments to music-service.service.ts. Include this commented code in a Microsoft Word document or a text document. Make sure your submission reads like a code file.
 
-## Research Answer
-[questions2.txt](questions2.txt)
+#### Side Note:
+- My sections for the question of part 2 wasn't showing here so I added it in the README2.md!
