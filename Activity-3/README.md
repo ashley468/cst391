@@ -1,7 +1,7 @@
 # Activity 3
 
 ## Part1
-## Screenshot 1
+## Screenshots
 
 ![Big](big.png)
 - This is a screenshot of my the begginig/home page in the way I edited it. I deleted the code in it and added a grid from the bootstrap. The devtools show what it would look like in a laptop/computer
@@ -9,7 +9,7 @@
 - This is a screenshot of the devtools showing what it would look like in a different device, which is a phone in this case. 
 
 ## Part2
-
+## Screenshots
 
 ![InitialApplication](initialApplication.png)
 - This is a screenshot of the initial aplication page.
@@ -31,8 +31,8 @@
 - This is a screenshot of the about box. Unlike the rest of the screenshots, this isn't a page, it's a box/message that appears at the top that says "My Music Collection Version: 1.0".
 
 
-
-## Research Questions
+## Research Questions 
+### Part 1
 1. Describe @Input decorator used in info.component.t
 2. Describe value used in info.component.html
 3. Describe ngModel also used in info.component.html
@@ -42,3 +42,10 @@
 2. The value binding in Angular is used to bind the values of a property in the component class to an element's attribute in the template. In info.component.html, the value is used to bind each movie name in the "products" array to the "option" element in the <select> dropdown. 
 3. ngmodel is Angular's two-way data binding syntax that synchronizes data between the component and template. It links an input field to a component property, ensuring that when the user updates the input, the component property is automatically updated. 
 
+## Research Questions
+### Part 2
+#### Research
+
+1. Add complete comments to music-service.service.ts. Include this commented code in a Microsoft Word document or a text document. Make sure your submission reads like a code file.
+
+## Research Answer
