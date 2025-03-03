@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-info',
@@ -6,18 +6,18 @@ import { Component, Input } from '@angular/core';
   styleUrls: ['./info.component.css']
 })
 export class InfoComponent {
-  @Input() name: string = '';
-
-  quantity: number = 1;
-  products: string[] = ['Laptop', 'Phone', 'Tablet'];
-  selectedProduct: string = this.products[0];
-
-  onSubmit() {
-    console.log(`Order placed: ${this.quantity} x ${this.selectedProduct}`);
-  }
+  quantity: number = 0;
+  selectedProduct: string = 'Star Wars';
+  products: string[] = ["Star Wars", "The Empire Strikes Back", "Return of the Jedi"];
 
   newInfo() {
-    this.quantity = 1;
-    this.selectedProduct = this.products[0];
+    this.quantity = 0;
+    this.selectedProduct = 'Star Wars';
+    this.products = ["Star Wars", "The Empire Strikes Back", "Return of the Jedi"];
+    console.log("In newInfo() and resetting info");
+  }
+
+  onSubmit() {
+    console.log("In onSubmit() with quantity of " + this.quantity + " and movie selected is " + this.selectedProduct);
   }
 }
