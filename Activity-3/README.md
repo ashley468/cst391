@@ -5,8 +5,19 @@
 
 ![Big](big.png)
 - This is a screenshot of my the begginig/home page in the way I edited it. I deleted the code in it and added a grid from the bootstrap. The devtools show what it would look like in a laptop/computer
+
 ![Small](small.png)
 - This is a screenshot of the devtools showing what it would look like in a different device, which is a phone in this case. 
+
+![BeforeEntering](beforeEntering.png)
+- This is a screenshot of the html section before entering any information. Although, in this case it would be your name. 
+
+![AfterEntering](afterEntering.png)
+- This is a screenshot where it would show after I entered my name and in its place would show a message welcome in me such as "Welcome Ashley". 
+
+![BuyButton](buyButton.png)
+- This is a screenshot of clicking on the "buy" button after checking the devtools. In the "Elements" tab, it shows the "onSubmit()" method and the html section of the page. 
+
 
 ## Part2
 ## Screenshots
