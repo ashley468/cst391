@@ -51,13 +51,6 @@
 #### Research
 
 1. Add complete comments to music-service.service.ts. Include this commented code in a Microsoft Word document or a text document. Make sure your submission reads like a code file.
-<br>
-
-## Research Questions
-### Part 2
-#### Research
-
-1. Add complete comments to music-service.service.ts. Include this commented code in a Microsoft Word document or a text document. Make sure your submission reads like a code file.
 
 ## Research Answer
 [Part 2 Question](questions2.txt)
