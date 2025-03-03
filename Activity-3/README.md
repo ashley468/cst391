@@ -51,7 +51,7 @@
 1. The @Input() decprator in angular is used to pass data from a parent component to a child component. In info.component.ts, the @input() is applied to the "name" property, allowing the shopcomponent to send the "answer" value to InfoComponent. It allows the InfoComponent to display the name its template. 
 2. The value binding in Angular is used to bind the values of a property in the component class to an element's attribute in the template. In info.component.html, the value is used to bind each movie name in the "products" array to the "option" element in the <select> dropdown. 
 3. ngmodel is Angular's two-way data binding syntax that synchronizes data between the component and template. It links an input field to a component property, ensuring that when the user updates the input, the component property is automatically updated. 
-
+<br>
 ## Research Questions
 ### Part 2
 #### Research
