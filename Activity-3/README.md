@@ -1,5 +1,4 @@
 # Activity 3
-- Captions?
 
 ## Part1
 ## Screenshot 1
