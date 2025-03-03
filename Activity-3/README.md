@@ -1,5 +1,10 @@
 # Activity 3
-## Part1
+- Author: Ashley Barron
+- Date: 3-2-25
+- Class: CST-391
+- Title: Activity 3
+
+## Part 1
 ## Screenshots
 
 ![Big](big.png)
@@ -17,7 +22,7 @@
 ![BuyButton](buyButton.png)
 - This is a screenshot of clicking on the "buy" button after checking the devtools. In the "Elements" tab, it shows the "onSubmit()" method and the html section of the page. 
 
-## Part2
+## Part 2
 ## Screenshots
 
 ![InitialApplication](initialApplication.png)
@@ -48,7 +53,6 @@
 
 ## Research Questions
 ### Part 2
-#### Research
 
 1. Add complete comments to music-service.service.ts. Include this commented code in a Microsoft Word document or a text document. Make sure your submission reads like a code file.
 
