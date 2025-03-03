@@ -1,5 +1,4 @@
 # Activity 3
-
 ## Part1
 ## Screenshots
 
@@ -18,25 +17,20 @@
 ![BuyButton](buyButton.png)
 - This is a screenshot of clicking on the "buy" button after checking the devtools. In the "Elements" tab, it shows the "onSubmit()" method and the html section of the page. 
 
-
 ## Part2
 ## Screenshots
 
 ![InitialApplication](initialApplication.png)
 - This is a screenshot of the initial aplication page.
 
-
 ![GCUHomePage](gcuHomePage.png)
 - This is a screenshot of GCU's Home page. When clicking on this button, it takes the user to GCU's acutal home page, so this isn't a page that we created.
-
 
 ![CreateAlbumPage](createAlbumPage.png)
 - This is a screenshot of the create album page. In this page, the user inserts the information of an artist, their album, description, year, etc.
 
-
 ![AlbumsListPage](albumsListPage.png)
 - This is a screenshot of the albums list page. This list page shows a list of albums titles that are already stored in the application and/or the new ones that the user might add.
-
 
 ![Aboutbox](aboutBox.png)
 - This is a screenshot of the about box. Unlike the rest of the screenshots, this isn't a page, it's a box/message that appears at the top that says "My Music Collection Version: 1.0".
@@ -57,6 +51,7 @@
 #### Research
 
 1. Add complete comments to music-service.service.ts. Include this commented code in a Microsoft Word document or a text document. Make sure your submission reads like a code file.
+<br>
 
 #### Side Note:
 - My sections for the question of part 2 wasn't showing here so I added it in the README2.md!
