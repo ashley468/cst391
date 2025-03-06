@@ -1,6 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ListArtistsComponent } from './list-artists.component';
+import { describe, beforeEach, it } from 'node:test';
 
 describe('ListArtistsComponent', () => {
   let component: ListArtistsComponent;
