@@ -4,6 +4,9 @@
 - Class: CST-391
 - Title: Activity 4
 
+## Introduction
+- This document demonstrates an overview of Activity 4, which shows the different elements of an Angular-based music collection application. The screenshots give a visual view of the main screen, artist list, album screens, and album management features. Furthermore, the research portion of this activity analyzes how an Angular application delivers a "logged-in" state  and securely transmits its information to the server. 
+
 ## Screenshots
 
 ![MainScreenApplication](mainApplicationScreen.png)
@@ -35,3 +38,6 @@
 
 ## Research Answers
 1. The most popular method for keeping an Angular application signed in is to use local storage, cookies, or JWT (JSON Web Tokens) in combination with session management. Firstly, when a user logs in, the Angular application uses an HTTP Post request to communicate the login information, such as the password and username to the backend (server). The server creates a JWT or session token and sends it back to back to the Angular client if the credentials are valid. Once the Angular app receives the token, it stores it in either the Local Storage, Session Storage, or cookies. The Local Storage is an easy-to-use technique that keeps tokens safe even when the user reloads the website. The Session Storage keeps the token for the duration of the session, yet it's comparable to local storage. Once the browser has been closed, it is cleared. When it comes to cookies, the token can be stored in the cookies with a suitable expiration date. The Angular App uses an AuthService to verify whether a token is valid in sessionStorage, localStorage, or cookies. The user's data is loaded and they're authenticated if they're located. Additionally, the service handles token expiration; if the token expires, it logs the user out. Angular uses the authorization nheader, formatted as user Authorization: Bearer "token". To confirm the user's identity and verify if the token is still valid, the backend validates the token for every request. The token is deleted from cookies, localStorage, or sessionStorage after the user logs out.  The backend can invalidate a token that's stored in cookies by deleting it from the server. 
+
+# Conclusion
+- In conclusion, this activity demonstrated the essential elements of an Angular-based music collection application, starting with the album management features to the user interface. The research questions/section focused on how Angular safely transmits the "logged-in" state to the server. Angular guarantees the persistence and secure transmission of data through the use of techniques such as session storage, local storage, cookies, and JSON Web Tokens (JWT). The make sure that only authenticated users can access the application, the server verifies the user's credentials and manages token expiration. For online applications to remain secure and provide a smooth user experience, this session management approach is essential. 
