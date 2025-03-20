@@ -24,6 +24,9 @@
 # One-Paragraph Summary
 - In the first section of the activity, I created a list if album cards with React Components. Each album section shows an album image, description, "OK" button, and title. The list of albums is now managed and shown to the user by using state. In order to maintain the application's reusability and organization, I also used custom components. In this session, new terms such as "state", "props", and "components" were used to construct the app's structure and transfer data across its numerous components. 
 
+# Second One-paragraph Summary
+- In the last section of the activity, we worked with the map() function, which iterates over an array and produces a changed list of components, we upgraded the React application by instantly providing a list of album cards. We added state, which allows components to use the useState hook to directly store and modify data. We also used props to transfer album details from the parent App component to the child Card component in order to present reusable and modular user interface elements. To enhance the application's visual appeal, we used CSS styling and bootstrap's grid system to display album cards in an organized layout. The application is now more dynamic, organuzed, and visually appealing thanks to these enhancements. 
+
 
 
 # Conclusion
