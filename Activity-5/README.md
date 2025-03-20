@@ -5,7 +5,7 @@
 - Title: Activity 5
 
 ## Introduction 
-- *Explain
+- In this activity, we improved the React Music Application by applying important concepts such as state, props, and the map() function to constantly manage and demonstrate album data. Using reusable components, we structured the application to make it more sustainable and more flexible. We also updated the visual design by using Bootstrap's grid system and CSS to generate a more adaptable and organized layout. These improvements made the app more user-friendly and interactive along with improving its function.
 
 # Activity Summary Page
 # Screenshots
