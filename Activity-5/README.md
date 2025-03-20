@@ -27,8 +27,7 @@
 # Second One-paragraph Summary
 - In the last section of the activity, we worked with the map() function, which iterates over an array and produces a changed list of components, we upgraded the React application by instantly providing a list of album cards. We added state, which allows components to use the useState hook to directly store and modify data. We also used props to transfer album details from the parent App component to the child Card component in order to present reusable and modular user interface elements. To enhance the application's visual appeal, we used CSS styling and bootstrap's grid system to display album cards in an organized layout. The application is now more dynamic, organuzed, and visually appealing thanks to these enhancements. 
 
-
-
 # Conclusion
+- *Throughout this activity we developed a more dynamic and modular music app by gaining hands-on experience with major React concepts such as state management, props, and the map() method/function. greatly boosted the functionality of our software by including these features and organizing it with reusable components. We also improved the interface by using CSS and Bootstrap, which refined the layout and made the app more aesthetically pleasing and responsive. Aside from improving the user experience, these enhancements give the basis for future work, where we plan on incorporating REST servcies and external data sources to increase the app's scalability and functionality. 
 
 # Research questions???*****
