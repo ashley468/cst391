@@ -10,10 +10,14 @@
 # Activity Summary Page
 # Screenshots
 ![MusicApplication](music.png)
-- This is a screemshot of the Music Application showing three pictures of three albums, their title, and a paragraph about them with the ok button underneath them. 
+- This is a screemshot of the Music Application showing three pictures of their albums, their title, and a paragraph about them with the ok button underneath them. 
 
 ![CounterPic](counterPic.png)
-- *This is a screenshot of the state changer application showing three sections that show the number of counters, its message, clicks, and a "click me" button where the user clicks on it, and it increments its clicks.
+- This is a screenshot of the state changer application showing three sections that show the number of counters, its message, clicks, and a "click me" button where the user clicks on it, and it increments its clicks.
+
+![Music2Application](music2.png)
+- This is a screenshot of the Music Application showing three pictures of theit albums, title, a paragraph about them, and an "ok" button. Though, for the third screenshot, I added a picture from wikipedia to show an image in its place. In the first screenshot, it wasn't showing the original image so I looked up another one. 
+
 
 #### ***zip up both projects!!!!**
 
