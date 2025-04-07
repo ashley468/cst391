@@ -42,7 +42,7 @@
 - **
 
 # One-Paragraph Summary Part 2
-- **
+- For part Mini App #2, we swithced to React 18 and used ReactDOM. Thee new rendering system, which improves effectiveness by drawing UI updates in the background, is enabled by using createRoot(). We additionally updated to React Router v6, which makes route handling easier by eliminating the requirement for render props and component by using the element prop in the Route component. In order to handle redirects in a more declarative way, this version also included the Navigate component, which replaces the redirect component. These updates ensure that the application functions smoothly with the latest React features and improve routing efficiency. Furhtermore, these upgrades allow a better user experiene, especially in complex applications where routing and efficiency are essential components. 
 
 # *Research Questions?
 
