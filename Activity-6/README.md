@@ -9,8 +9,8 @@
 
 
 
-# Screenshots
-## Part 1
+# Part 1
+## Screenshots
 ![MusicPage](music.png)
 - This is a screenshot of the program running and showing the main page woth three examples of albums and their information
 
@@ -18,7 +18,25 @@
 - This is a screenshot of the music site if the user types in something in the search bar. For my example, I typed "yellow", and it shows the albums that are related to "yellow".
 
 
-## Part 2
+# Part 2
+## Screeshots
+![StartPage](startPage.png)
+- This is a screenshot of the router program running when first starting it. It shows the application welcoming the user to the site with a navbar showing the pages: about, Contact Us, user, and login. It also shows a list of friends at the bottom. 
+
+![AboutUs](aboutUs.png)
+- This is a screenshot of the About page talking about the application's company. 
+
+![Contact](contact.png)
+- This is a screenshot of the Contact page showing the site/company's contact information. 
+
+![User](user.png)
+- This is a screenshot of the User page greeting the user. 
+
+![Login](login.png)
+- This is a screenshot of the login page with a "Login Here" button. Once the user logs in, they will be redirected to the Main Page. 
+
+![David](david.png)
+- This is a screenshot of the "David" page. The main page shows a list of different names/friends such as Mary, Justine, Brianna, and David. For this example, I selected the David page and if I were to select any of the other pages, it would be similar to this page, though it would instead say another name. 
 
 # One-Paragraph Summary Part 1
 - **
