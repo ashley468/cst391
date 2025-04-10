@@ -38,11 +38,20 @@
 ![David](david.png)
 - This is a screenshot of the "David" page. The main page shows a list of different names/friends such as Mary, Justine, Brianna, and David. For this example, I selected the David page and if I were to select any of the other pages, it would be similar to this page, though it would instead say another name. 
 
+# Part 3 
+## Screenshots
+![Part3](part3.png)
+- This is a screenshot of the music application after updating it. Where it shows the search bar, side bar, and title. 
+
+
 # One-Paragraph Summary Part 1
 - **
 
 # One-Paragraph Summary Part 2
 - For part Mini App #2, we swithced to React 18 and used ReactDOM. Thee new rendering system, which improves effectiveness by drawing UI updates in the background, is enabled by using createRoot(). We additionally updated to React Router v6, which makes route handling easier by eliminating the requirement for render props and component by using the element prop in the Route component. In order to handle redirects in a more declarative way, this version also included the Navigate component, which replaces the redirect component. These updates ensure that the application functions smoothly with the latest React features and improve routing efficiency. Furhtermore, these upgrades allow a better user experiene, especially in complex applications where routing and efficiency are essential components. 
+
+# One-Paragraph Summary Part 3
+- *For... 
 
 # *Research Questions?
 
