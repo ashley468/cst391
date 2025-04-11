@@ -45,13 +45,13 @@
 
 
 # One-Paragraph Summary Part 1
-- **
+- This section provided new features such as role-based access control, session management, and login authentication in order to enhance security. While authentication verifies a suser's identity, session management tracks users as they navigate through the website. Role-based access control or RBAC, make sure that users can only access features that match their jobs such as administrator or customer. 
 
 # One-Paragraph Summary Part 2
 - For part Mini App #2, we swithced to React 18 and used ReactDOM. Thee new rendering system, which improves effectiveness by drawing UI updates in the background, is enabled by using createRoot(). We additionally updated to React Router v6, which makes route handling easier by eliminating the requirement for render props and component by using the element prop in the Route component. In order to handle redirects in a more declarative way, this version also included the Navigate component, which replaces the redirect component. These updates ensure that the application functions smoothly with the latest React features and improve routing efficiency. Furhtermore, these upgrades allow a better user experiene, especially in complex applications where routing and efficiency are essential components. 
 
 # One-Paragraph Summary Part 3
-- *For... 
+- For part 4: Navigating Route, we enhanced the operation of the music app by adding new features to it. We used React Router to move between pages such as viewing all albums, adding new ones, and displaying data for a single one. To show and arrange album data we used components such as OneAlbum and AlbumList. The application now uses React hooks such as useState and useEffect to dynamically manage and change the app's state and Axios for API calls to load data from a server. 
 
 # *Research Questions?
 
