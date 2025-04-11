@@ -53,10 +53,6 @@
 # One-Paragraph Summary Part 3
 - For part 4: Navigating Route, we enhanced the operation of the music app by adding new features to it. We used React Router to move between pages such as viewing all albums, adding new ones, and displaying data for a single one. To show and arrange album data we used components such as OneAlbum and AlbumList. The application now uses React hooks such as useState and useEffect to dynamically manage and change the app's state and Axios for API calls to load data from a server. 
 
-# *Research Questions?
-
-# *Answers?
-
 
 # Conclusion
-***....
+- The activity showed the way modern web development methods and technologies, such as role-based access control, React, and React Router interact to create a safe and dynamic application. By working and progressing through each section, I learned how to improve user experience through efficient data retrieval, routing, and interactive elements while also making sure that user access is properly secured through session tracking and login authentication. Overall, this activity helped me understand more how to apply the most recent front-end development practices to build scalable, user-friendly applications. 
