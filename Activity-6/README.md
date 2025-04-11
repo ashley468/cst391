@@ -5,8 +5,7 @@
 - Title: Activity 6
 
 ## Introduction
-- **In this activity...
-
+- In this activity we explored key ideas and procedures in modern web development throughout the enhancement of React. We implemented essential features such as session management, dynamic routing, role-based access control, and API connection in each section. By using moder tools and technologies like React Router v6 and Axios, the focus was to enhance both functionality and user experience. The exercise gave hands-on experience with creating interactive, responsive, and secure front-end applications using real-world development technologies. 
 
 
 # Part 1
